@@ -1,0 +1,18 @@
+task -7
+
+Extension Name	          Reason for Removal	                                          What the Extension Claimed to Do
+ chrome notes	          Unused, had "Read all data" permission 	                   take notes
+ dark mode	          Unrecognized name, generic icon,                               turn into dark or light mode
+volume master             not removed                                                    increase the volume upto 600%
+wordtune                  not removed                                                    helps with grammer
+
+
+Analysis of Harm from Malicious Extensions:
+
+Malicious extensions pose a significant threat because they run with the same privileges as the user, potentially accessing all sensitive browsing data. The research indicates that the main ways malicious extensions harm users are:
+
+Credential Harvesting: They can act as keyloggers or form sniffers to steal login details and financial information.
+
+Search and Homepage Redirection: They can redirect the user to ad-supported or phishing sites, generating revenue for the attacker.
+
+Eavesdropping: They can inject code into web pages to track and log every website the user visits, compromising privacy.
